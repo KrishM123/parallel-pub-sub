@@ -1,6 +1,10 @@
+# To Run
+-  `make`
+-  `make run`
+ 
 # Pub/Sub Design Pattern
 
-![Group 1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/18972c3f-cc50-470d-b8d1-5cb369efa733/fe108290-c163-49ba-bc9b-029481bad31b/Group_1.png)
+![System Structure.png](/System%20Structure.png)
 
 ## Structure
 
