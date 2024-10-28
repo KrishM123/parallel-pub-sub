@@ -44,10 +44,5 @@ int main() {
 
     pool.waitForAll();
 
-    delete action1;
-    delete action2;
-    delete action3;
-    delete action4;
-
     return 0;
 }
